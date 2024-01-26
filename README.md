@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CN Mock application
 
 An mock CNRailway app built with esri js api.
 
