@@ -4,7 +4,7 @@ An mock CNRailway app built with esri js api.
 
 # Features
 
-Currently this app displays the exisiting CNRailway locations processed from the deployed from the following back end https://github.com/kingO1989/geojsonconverter
+Currently this app displays the exisiting CNRailway locations processed from the deployed end https://github.com/kingO1989/geojsonconverter
 
 ## Available Scripts
 
